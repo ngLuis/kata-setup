@@ -1,0 +1,27 @@
+{
+  "name": "kata-setup",
+  "version": "1.0.0",
+  "description": "This is a project created for realize katas in TypeScript + Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngLuis/kata-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngLuis/kata-setup/issues"
+  },
+  "homepage": "https://github.com/ngLuis/kata-setup#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@tsconfig/node20": "^20.1.4",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.2",
+    "typescript": "^5.5.3"
+  }
+}
